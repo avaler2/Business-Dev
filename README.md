@@ -1,3 +1,5 @@
-# Business-Dev
-Testowe repozytorium
+#  Projekt w ramach przedmiotu ...
+Repozytorium dla mojego kursu
+
+
 Moja platforma będzie służyc do realizacji projektu w ramach przedmiotu....
