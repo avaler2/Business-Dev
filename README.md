@@ -1,2 +1,3 @@
 # Business-Dev
 Testowe repozytorium
+Moja platforma będzie służyc do realizacji projektu w ramach przedmiotu....
